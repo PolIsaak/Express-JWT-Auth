@@ -3,7 +3,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='container mx-auto'>
+    <div className='container mx-auto lg:min-w-[500px]'>
       <div>
         <h1 className="text-6xl uppercase font-bold">Backend Practice</h1>
         <h2 className="text-2xl">JWT Authorization & Authentication</h2>
