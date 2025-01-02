@@ -15,6 +15,8 @@ const Marquee = () => {
     "img/express.svg",
     "img/jwt.svg",
     "img/postgresql.svg",
+    "img/railway.svg",
+    "img/vercel.svg",
     "img/git.svg",
     "img/github.svg",
     "img/postman.svg"
